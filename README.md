@@ -1,13 +1,13 @@
 # 👋 Hey, I'm zty012
 
-Welcome to my digital workspace. Here you'll find my experiments, open-source projects, and thoughts on privacy, cryptography, and software craftsmanship.
+I am a special junior high school student, and I started learning programming from Grade 3.
 
 ## 🧑‍💻 About Me
 
 - **Alias**: zty012
 - **Email**: [z@2y.nz](mailto:z@2y.nz)
 - **PGP Fingerprint**: `FF5C731667490A90`
-- **Interests**: Security engineering, cryptography, automation, open-source advocacy.
+- **Interests**: Frontend development, Integrated circuit
 
 ## 🛠️ Tech Toolbox
 
@@ -22,9 +22,7 @@ Welcome to my digital workspace. Here you'll find my experiments, open-source pr
 ## 📰 Recent Activity
 
 - 🌱 Learning:  
-  - Advanced cryptography and privacy-preserving protocols  
-  - Rust language and WASM  
-  - Secure software supply chain practices
+  - ESP32
 
 - 🤝 Contributing:  
   - Bug fixes, reviews, and documentation for open-source security tools  
@@ -33,5 +31,3 @@ Welcome to my digital workspace. Here you'll find my experiments, open-source pr
 ## 📊 GitHub Stats
 
 ![zty012's GitHub stats](https://github-readme-stats.vercel.app/api?username=zty012&show_icons=true&theme=catppuccin_mocha)
-
-[![zty012's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zty012&show_icons=true&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
